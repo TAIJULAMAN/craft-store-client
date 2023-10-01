@@ -1,0 +1,99 @@
+/* AboutCraft.css */
+/* Style for the main tab */
+.react-tabs {
+  font-family: Arial, sans-serif;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Style for the main tab list */
+.react-tabs__tab-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background-color:#22d3ee;
+}
+
+/* Style for each main tab */
+.react-tabs__tab {
+  flex: 1;
+  text-align: center;
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #67e8f9;
+  color: #fff;
+  transition: background-color 0.3s;
+}
+
+/* Hover effect for main tabs */
+.react-tabs__tab:hover {
+  background-color: #cffafe;
+}
+
+/* Style for the selected main tab */
+.react-tabs__tab--selected {
+  background-color: #fff;
+  color: #333;
+}
+
+/* Style for tab content container */
+.react-tabs__tab-panel {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+/* Style for sub tab list */
+.react-tabs__tab-list--sub {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background-color: #eee;
+  margin-top: 10px;
+}
+
+/* Style for each sub tab */
+.react-tabs__tab--sub {
+  flex: 1;
+  text-align: center;
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #ccc;
+  color: #333;
+  transition: background-color 0.3s;
+}
+
+/* Hover effect for sub tabs */
+.react-tabs__tab--sub:hover {
+  background-color: #ddd;
+}
+
+/* Style for the selected sub tab */
+.react-tabs__tab--sub.react-tabs__tab--selected {
+  background-color: #fff;
+  color: #333;
+}
+
+/* Style for tab content */
+.react-tabs__tab-panel--sub {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+/* Style for the character descriptions */
+.react-tabs__tab-panel--sub p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+/* Style for character images */
+.react-tabs__tab-panel--sub img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
