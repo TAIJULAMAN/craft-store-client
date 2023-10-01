@@ -1,0 +1,53 @@
+[
+    {
+        "_id": "635a0c0b64a6d231228942ae",
+        "service_id": "04",
+        "title": "Halloween Set",
+        "img": "https://i.ibb.co/XttrKrK/paper-decorations-halloween-set.jpg",
+        "price": "20.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit"
+    },
+    {
+        "_id": "635a0c0b64a6d231228942af",
+        "service_id": "05",
+        "title": "Battery Charge",
+        "img": "https://i.ibb.co/Rc3xLSh/pexels-couleur-11901109.jpg",
+        "price": "25.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "_id": "635b591a1dafe382a9da8c96",
+        "service_id": "01",
+        "title": "Full car Repair",
+        "img": "https://i.ibb.co/QPc1mNt/pexels-inh-ng-c-s-n-14993319.jpg",
+        "price": "30.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. "
+        
+    },
+    {
+        "_id": "635b5afc1dafe382a9da8c98",
+        "service_id": "02",
+        "title": "Engine Repair",
+        "img": "https://i.ibb.co/7Y3P4qV/pexels-tim-mossholder-11804430.jpg",
+        "price": "15.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+       
+    },
+    {
+        "_id": "635b5b691dafe382a9da8c99",
+        "service_id": "03",
+        "title": "Automatic Services",
+        "img": "https://i.ibb.co/QkBjWc3/pexels-16178787.jpg",
+        "price": "30.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+       
+    },
+    {
+        "_id": "635b5ba51dafe382a9da8c9a",
+        "service_id": "06",
+        "title": "Cute Fish",
+        "img": "https://i.ibb.co/PYNhnsj/play-dough-background-with-cute-fish.jpg",
+        "price": "20.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    }
+]
